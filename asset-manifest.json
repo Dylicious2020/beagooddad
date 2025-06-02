@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/beagooddad/static/css/main.dcc34a08.css",
-    "main.js": "/beagooddad/static/js/main.e659a641.js",
+    "main.css": "/beagooddad/static/css/main.fa0b3e86.css",
+    "main.js": "/beagooddad/static/js/main.c278ee24.js",
     "static/js/453.7871db0c.chunk.js": "/beagooddad/static/js/453.7871db0c.chunk.js",
+    "static/media/nickScout.JPG": "/beagooddad/static/media/nickScout.a571dd1e609980f7547b.JPG",
+    "static/media/vid.mp4": "/beagooddad/static/media/vid.6c198f0a5174838e4369.mp4",
+    "static/media/476896734___n.jpg": "/beagooddad/static/media/476896734_17862735330345124_2064163502464534600_n.253ffcc0938d213afa58.jpg",
     "static/media/476620778___n.jpg": "/beagooddad/static/media/476620778_17862136701345124_5009046824002216109_n.37d320721680bf536dc8.jpg",
     "index.html": "/beagooddad/index.html",
-    "main.dcc34a08.css.map": "/beagooddad/static/css/main.dcc34a08.css.map",
-    "main.e659a641.js.map": "/beagooddad/static/js/main.e659a641.js.map",
+    "main.fa0b3e86.css.map": "/beagooddad/static/css/main.fa0b3e86.css.map",
+    "main.c278ee24.js.map": "/beagooddad/static/js/main.c278ee24.js.map",
     "453.7871db0c.chunk.js.map": "/beagooddad/static/js/453.7871db0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcc34a08.css",
-    "static/js/main.e659a641.js"
+    "static/css/main.fa0b3e86.css",
+    "static/js/main.c278ee24.js"
   ]
 }
